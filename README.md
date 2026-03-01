@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.14-blue?logo=python)](https://www.python.org/)
 [![Aiogram](https://img.shields.io/badge/aiogram-3.x-blue?logo=telegram)](https://docs.aiogram.dev/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Telegram-бот для мгновенного получения актуальных цен на акции, криптовалюты и валютные пары. Просто отправьте название или тикер — и бот покажет текущую стоимость.
 
